@@ -1,0 +1,45 @@
+/*@import url("reset.css");*/
+
+body { background-color: black; }
+
+.outer { 
+	background-color: #F7F2E2;
+	width: 1024px;
+	height: 768px;
+	margin: 0 auto;
+	}
+
+.header {
+	width: 1024px;
+	height :64px;
+	background-image: url(images/header.png);
+	}
+	
+.tabbar {
+	width: 1024px; 
+	height: 49px; 
+	background-image: url(images/tabbar.png);
+	margin-top: 655px;
+	
+	}
+	
+.tabbar li {
+	float: left;
+	margin-left: 1.5px;
+	position: relative;
+	left: 230px;
+	}
+
+.tabbar ul {
+	list-style: none;
+	}
+
+
+
+/*
+.header    { width: auto; height: 100px; border: 1px solid black; }
+	.logo  { width: 200px; height: 50px; margin-left: 10px; margin-top: 10px; border: 1px solid black; }
+	.nav   { width: 600px; height: 60px; margin-right: 110px; margin-top: -40px; border: 1px solid black; float: right; }
+.subheader { width: auto; height: 40px; border: 1px solid black; margin-top: -1px; }
+.slider    { width: 256px; height: 624px; border: 1px solid black; margin-top: -1px; }
+.content   { width: 765px; height: 624px; border: 1px solid black; margin-top: -1px; float: left; margin-left: 256px; }*/
