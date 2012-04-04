@@ -1,0 +1,102 @@
+/*@import url("reset.css");*/
+
+body { background-color: black; }
+
+.outer { 
+	/*border: 1px solid blue;*/
+	width: 1024px;
+	height: 768px;
+	/*margin: 0 auto;*/
+	}
+
+.statusBar {
+	/*border: 1px solid red;*/
+	background-image: url(_images/statusBar.png);
+	width: 1024px;
+	height: 20px;
+}
+	
+.topBar1 {
+	/*border: 1px solid green;*/
+	background-image: url(_images/topBar1.png);
+	width: 288px; 
+	height: 40px; 
+	float: left;	
+	}
+	
+.topBar2 {
+	/*border: 1px solid green;*/
+	background-image: url(_images/topBar2.png);
+	width: 540px;
+	height: 40px;
+	float: left;
+}
+
+.topBar3 {
+	/*border: 1px solid green;*/
+	background-image: url(_images/topBar3.png);
+	width: 196px;
+	height: 40px;
+	float: left;
+}
+
+.main1 {
+	/*border: 1px solid yellow;*/
+	background-image: url(_images/main1.png);
+	width: 288px;
+	height: 659px;
+	float: left;
+}
+
+.main2 {
+	/*border: 1px solid yellow;*/
+	background-image: url(_images/main2.png);
+	width: 736px;
+	height: 659px;
+	float: left;
+}
+
+.btnBar1 {
+	/*border: 1px solid orange;*/
+	background-image: url(_images/btnBar1.png);
+	width: 250px;
+	height: 49px; 
+	float: left;
+}
+
+.btnBar2 {
+	/*border: 1px solid orange;*/
+	background-image: url(_images/btnBar2.png);
+	width: 524px;
+	height: 49px; 
+	float: left;
+	
+}
+
+.btnBar3 {
+	/*border: 1px solid orange;*/
+	background-image: url(_images/btnBar3.png);
+	width: 250px;
+	height: 49px; 
+	float: left;
+}
+
+/*.btnBar2 li {
+	float: left;
+	margin-left: 1.5px;
+	/*position: relative;
+	left: 264px;
+}
+
+.btnBar2 ul {
+	list-style: none;
+}*/
+
+	
+/*
+.header    { width: auto; height: 100px; border: 1px solid black; }
+	.logo  { width: 200px; height: 50px; margin-left: 10px; margin-top: 10px; border: 1px solid black; }
+	.nav   { width: 600px; height: 60px; margin-right: 110px; margin-top: -40px; border: 1px solid black; float: right; }
+.subheader { width: auto; height: 40px; border: 1px solid black; margin-top: -1px; }
+.slider    { width: 256px; height: 624px; border: 1px solid black; margin-top: -1px; }
+.content   { width: 765px; height: 624px; border: 1px solid black; margin-top: -1px; float: left; margin-left: 256px; }*/
